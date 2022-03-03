@@ -89,5 +89,5 @@ void onButtonPress() {
 }
 
 int main() {
-  addButton(0, 0, 250, 100, onButtonPress, “Clear”, vex::color(255, 0, 0));
+  addButton(0, 0, 250, 100, onButtonPress, "Clear", vex::color(255, 0, 0));
 }
