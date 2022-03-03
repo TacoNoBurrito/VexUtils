@@ -21,7 +21,7 @@ class ButtonPressable {
 
   // Brain Dimensions 480 x 240 (first 32 are used by vex itself on the y-axis)
   const int brainDimX = 480;
-  const int brainDimY = 480;
+  const int brainDimY = 240;
 
   int x;
   int y;
